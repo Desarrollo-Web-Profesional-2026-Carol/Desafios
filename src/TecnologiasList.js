@@ -21,3 +21,4 @@ function TecnologiasList() {
 }
 
 export default TecnologiasList;
+
